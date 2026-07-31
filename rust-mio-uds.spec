@@ -5,8 +5,8 @@
 %global crate mio-uds
 
 Name:           rust-%{crate}
-Version:        0.6.7
-Release:        7%{?dist}
+Version:        0.6.8
+Release:        1%{?dist}
 Summary:        Unix domain socket bindings for mio
 
 # Upstream license specification: MIT/Apache-2.0
